@@ -1,1 +1,2 @@
-# Moj-kraj---Tom-Samsa
+# moj-kraj-sezana
+Predstavitev mojega kraja Sezana
